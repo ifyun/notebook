@@ -52,7 +52,7 @@ ffmpeg -i input.mkv -vn -acodec copy -map 0:a:0 audio_track_0.mlp
 提取第一个字幕轨：
 
 ```bash
-ffmpeg -i input.mkv -map 0:s:0 sub_track_0.ass
+ffmpeg -i input.mkv -scodec copy -map 0:s:0 sub_track_0.ass
 ```
 
-!> 如果字幕是其他类型请改为对应的扩展名。
+!> 如果字幕是其他类型，改为对应的扩展名。

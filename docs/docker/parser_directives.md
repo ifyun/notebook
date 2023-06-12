@@ -1,4 +1,4 @@
-# 解析器指令 Parser Directives
+# 解析器指令 - Parser Directives
 
 - 解析器指令影响对 `Dockerfile` 中后续行的处理方式
 - 解析器指令不会增加构建层，也不会展示在构建步骤
