@@ -17,3 +17,5 @@
 * **视频处理**
   * [FFmpeg 常用命令](video/ffmpeg.md)
   * [ASS 字幕格式](video/ASS字幕格式.md)
+* **其他**
+  * [G1810 打印机清零](other/g1810-reset-ink.md)
