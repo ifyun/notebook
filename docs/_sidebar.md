@@ -12,6 +12,7 @@
     * [序列化注解](java/jackson/序列化注解.md)
     * [反序列化注解](java/jackson/反序列化注解.md)
     * [多态类型处理注解](java/jackson/多态类型处理注解.md)
+    * [通用注解](java/jackson/通用注解.md)
   * **多线程**
     * [线程池与拒绝策略](java/线程池与拒绝策略.md)
 * **视频处理**
