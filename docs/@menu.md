@@ -19,4 +19,5 @@
   - [ffmpeg 常用命令](video/ffmpeg.md)
   - [ASS 字幕格式](video/ASS字幕格式.md)
 - **其他**
-  - [G1810 打印机清零](other/g1810-reset-ink.md)
+  - [Hyper-V 动态端口范围](other/Hyper-V动态端口范围.md)
+  - [G1810 打印机清零](other/g1810清零.md)
