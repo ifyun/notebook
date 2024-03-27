@@ -35,7 +35,9 @@ int console_printk[4] = {
 - 6 - `KERN_INFO`
 - 7 - `KERN_DEBUG`
 
-!> 数值越小，级别越高。
+:::tips
+数值越小，级别越高。
+:::
 
 可使用以下方式实时修改级别：
 
@@ -50,4 +52,6 @@ sudo bash -c "echo 7 4 1 7 > /proc/sys/kernel/printk"
 kernel.printk = 3 4 1 3
 ```
 
-?> 若系统启动并登录后，一直有日志输出到屏幕，可以将第一个值设置到 `KERN_DEBUG` 以上。
+:::tips
+若系统启动并登录后，一直有日志输出到屏幕，可以将第一个值设置到 `KERN_DEBUG` 以上。
+:::

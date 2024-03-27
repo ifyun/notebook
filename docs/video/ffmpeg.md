@@ -55,4 +55,6 @@ ffmpeg -i input.mkv -vn -acodec copy -map 0:a:0 audio_track_0.mlp
 ffmpeg -i input.mkv -scodec copy -map 0:s:0 sub_track_0.ass
 ```
 
-!> 如果字幕是其他类型，改为对应的扩展名。
+:::note
+如果字幕是其他类型，改为对应的扩展名。
+:::

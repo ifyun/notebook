@@ -1,0 +1,22 @@
+- **Linux**
+  - [ufw 配置防火墙](linux/ufw.md)
+  - [fstab 挂载分区](linux/fstab.md)
+  - [printk 打印级别](linux/printk.md)
+- **Docker**
+  - **Dockerfile**
+    - [解析器指令](docker/01-解析器指令.md)
+    - [环境替代](docker/02-环境替代.md)
+    - [.dockerignore 文件](docker/03-dockerignore.md)
+- **Java**
+  - **Jackson**
+    - [序列化注解](java/jackson/01-序列化注解.md)
+    - [反序列化注解](java/jackson/02-反序列化注解.md)
+    - [多态类型处理注解](java/jackson/03-多态类型处理注解.md)
+    - [通用注解](java/jackson/04-通用注解.md)
+  - **多线程**
+    - [线程池与拒绝策略](java/线程池与拒绝策略.md)
+- **视频处理**
+  - [ffmpeg 常用命令](video/ffmpeg.md)
+  - [ASS 字幕格式](video/ASS字幕格式.md)
+- **其他**
+  - [G1810 打印机清零](other/g1810-reset-ink.md)
