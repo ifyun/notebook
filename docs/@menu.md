@@ -2,6 +2,7 @@
   - [ufw 配置防火墙](linux/ufw.md)
   - [fstab 挂载分区](linux/fstab.md)
   - [printk 打印级别](linux/printk.md)
+  - [facl 权限继承](linux/facl.md)
 - **Docker**
   - **Dockerfile**
     - [解析器指令](docker/01-解析器指令.md)
